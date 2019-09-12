@@ -1,0 +1,3 @@
+﻿  CarOwners.cpp
+C:\Users\jkh_n\Downloads\Новая папка\CarOwners12365\CarOwners.cpp(26,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  CarOwners.vcxproj -> C:\Users\jkh_n\Downloads\Новая папка\CarOwners12365\Debug\Main.exe
